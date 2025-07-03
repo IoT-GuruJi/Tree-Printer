@@ -42,22 +42,17 @@ A sleek C++ utility to **construct** and **beautifully render** binary trees as 
 ## 💻 Usage
 
 ### 1. Compile
-
 ```bash
 g++ -std=c++11 treePrinter.cpp -o treePrinter
-
+```
 ### 2. Run & Define Your Tree
+```bash
 ./treePrinter
+```
+---
 
 
-Type your definitions one per line:
-R -> A,B
-A -> C,D
-B -> E,F
-C -> G,0
-D -> H,I
-end
-
+### Type your definitions one per line:
 
 - First valid line sets the root (R above).
 - Use 0 if a child is missing.
@@ -66,12 +61,12 @@ end
 📝 Input Format
 Parent -> Left,Right
 
-
 - Parent, Left, Right : any string token (e.g. A, 42, foo).
 - 0 denotes “no child.”
 - The first valid line names the root.
 
 🎉 Example
+```bash
 Input:
 R -> A,B
 A -> C,D
