@@ -4,17 +4,7 @@ A sleek C++ utility to **construct** and **beautifully render** binary trees as 
 
 ---
 
-## 📖 Table of Contents
 
-- [Overview](#overview)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Input Format](#input-format)  
-- [Example](#example)  
-- [Source Code](#source-code)  
-
----
 
 ## 🔍 Overview
 
